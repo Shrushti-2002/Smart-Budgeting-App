@@ -3,6 +3,7 @@ Overview
 A smart budgeting application that automatically categorizes expenses and provides spending insights through visualizations and summaries.
 
 Core Features
+
 Expense Management
 - Manual expense entry with fields for amount, description, date, and optional category
 - CSV file upload for importing transaction data (amount, description, date columns)
