@@ -1,5 +1,6 @@
 # Smart-Budgeting-App
 website - https://smart-budgeting-app-7gu.caffeine.xyz/
+
 Overview
 A smart budgeting application that automatically categorizes expenses and provides spending insights through visualizations and summaries.
 
